@@ -62,18 +62,18 @@ function IndexHeader() {
           }}
         />
         <h6 className="category category-absolute">
-          Designed and coded by{" "}
-          <a
+          Designed and coded by © 2020 DALTA systems s.r.o.
+          <link
             href="https://www.dalta.cz/"
             target="_blank"
           >
-            <img
+            {/*<img
               alt="© 2020 DALTA systems s.r.o."
               target="_blank"
               // className="creative-tim-logo"
               //src={require("assets/img/creative-tim-white-slim2.png")}
-            />
-          </a>
+            />*/}
+          </link>
         </h6>
       </div>
     </>
