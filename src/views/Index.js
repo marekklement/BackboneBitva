@@ -55,7 +55,6 @@ function Index() {
       <IndexHeader />
       <div className="main">
         <About />
-
       </div>
     </>
   );
