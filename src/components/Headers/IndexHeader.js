@@ -61,20 +61,20 @@ function IndexHeader() {
             backgroundImage: "url(" + require("assets/img/clouds.png") + ")"
           }}
         />
-        <h6 className="category category-absolute">
+        {/*<h6 className="category category-absolute">
           Designed and coded by © 2020 DALTA systems s.r.o.
           <link
             href="https://www.dalta.cz/"
             target="_blank"
-          >
+          >*/}
             {/*<img
               alt="© 2020 DALTA systems s.r.o."
               target="_blank"
               // className="creative-tim-logo"
               //src={require("assets/img/creative-tim-white-slim2.png")}
             />*/}
-          </link>
-        </h6>
+          {/*</link>
+        </h6>*/}
       </div>
     </>
   );

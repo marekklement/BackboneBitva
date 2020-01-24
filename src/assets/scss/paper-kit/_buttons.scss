@@ -68,7 +68,7 @@
 .btn-success { @include btn-styles($success-color, $success-states-color); }
 .btn-info    { @include btn-styles($info-color, $info-states-color); }
 .btn-warning { @include btn-styles($warning-color, $warning-states-color); }
-.btn-danger  { @include btn-styles($danger-color, $danger-states-color); }
+.btn-danger  { @include btn-styles(red, $orangeENG); }
 .btn-neutral  { @include btn-styles($white-color, $default-states-color); }
 
 .btn-outline-default { @include btn-outline-styles($default-color, $default-states-color); }

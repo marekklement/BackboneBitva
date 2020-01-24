@@ -1,4 +1,3 @@
-
 .nav {
   .nav-item{
     .nav-link:hover,
@@ -86,6 +85,16 @@
             & .nav-link{
                 p{
                     display: inline;
+                    color: white;
+                    &:hover{
+                      color: $orangeENG;
+                    }
+                }
+                i{
+                  color: white;
+                  &:hover{
+                    color: $orangeENG;
+                  }
                 }
             }
             & .dropdown-item{
@@ -107,7 +116,7 @@
         }
 
         &:after {
-          background-color: #FFFCF5;
+          background-color: $blueENG;
         }
     }
     #navbarSupportedContent{
@@ -143,6 +152,9 @@
 
       .navbar-brand {
         color: $white-color;
+        &:hover{
+          color: $orangeENG;
+        }
       }
 
       .navbar-nav {
@@ -222,7 +234,7 @@
         .nav-item .nav-link:hover,
         .nav-item .nav-link:focus{
             background-color: transparent;
-            color: $white-color;
+            color: $orangeENG;
             @include opacity(1);
         }
         .nav .nav-item a.btn:hover{

@@ -64,66 +64,45 @@ function IndexNavbar() {
   return (
     <Navbar className={classnames("fixed-top", navbarColor)} expand="lg">
       <Container>
-        <div className="navbar-translate">
-          <Collapse
-              className="justify-content-end"
-              navbar
-              isOpen={navbarCollapse}
-          >
-            <Nav navbar>
-              <NavItem>
-                <NavLink
-                    data-placement="bottom"
-                    href="https://twitter.com/engineersprague"
-                    target="_blank"
-                    title="Sledujte nás na Twitteru"
-                >
-                  <i className="fa fa-twitter" />
-                  <p className="d-lg-none">Twitter</p>
-                </NavLink>
-              </NavItem>
-              <NavItem>
-                <NavLink
-                    data-placement="bottom"
-                    href="https://www.facebook.com/engineersprague"
-                    target="_blank"
-                    title="Sledujte nás na Facebooku"
-                >
-                  <i className="fa fa-facebook-square" />
-                  <p className="d-lg-none">Facebook</p>
-                </NavLink>
-              </NavItem>
-              <NavItem>
-                <NavLink
-                    data-placement="bottom"
-                    href="https://www.instagram.com/engineersprague"
-                    target="_blank"
-                    title="Sledujte nás na Instagramu"
-                >
-                  <i className="fa fa-instagram" />
-                  <p className="d-lg-none">Instagram</p>
-                </NavLink>
-              </NavItem>
-            </Nav>
-          </Collapse>
-          <button
-            aria-expanded={navbarCollapse}
-            className={classnames("navbar-toggler navbar-toggler", {
-              toggled: navbarCollapse
-            })}
-            onClick={toggleNavbarCollapse}
-          >
-            <span className="navbar-toggler-bar bar1" />
-            <span className="navbar-toggler-bar bar2" />
-            <span className="navbar-toggler-bar bar3" />
-          </button>
-        </div>
         <Collapse
           className="justify-content-end"
           navbar
           isOpen={navbarCollapse}
         >
           <Nav navbar>
+            <NavItem>
+              <NavLink
+                  data-placement="bottom"
+                  href="https://twitter.com/engineersprague"
+                  target="_blank"
+                  title="Sledujte nás na Twitteru"
+              >
+                <i className="fa fa-twitter" />
+                <p className="d-lg-none">Twitter</p>
+              </NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink
+                  data-placement="bottom"
+                  href="https://www.facebook.com/engineersprague"
+                  target="_blank"
+                  title="Sledujte nás na Facebooku"
+              >
+                <i className="fa fa-facebook-square" />
+                <p className="d-lg-none">Facebook</p>
+              </NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink
+                  data-placement="bottom"
+                  href="https://www.instagram.com/engineersprague"
+                  target="_blank"
+                  title="Sledujte nás na Instagramu"
+              >
+                <i className="fa fa-instagram" />
+                <p className="d-lg-none">Instagram</p>
+              </NavLink>
+            </NavItem>
             <NavItem>
             <NavbarBrand
                 data-placement="bottom"
@@ -166,6 +145,17 @@ function IndexNavbar() {
             </NavItem>
           </Nav>
         </Collapse>
+        <button
+          aria-expanded={navbarCollapse}
+          className={classnames("navbar-toggler navbar-toggler", {
+            toggled: navbarCollapse
+          })}
+          onClick={toggleNavbarCollapse}
+        >
+          <span className="navbar-toggler-bar bar1" />
+          <span className="navbar-toggler-bar bar2" />
+          <span className="navbar-toggler-bar bar3" />
+        </button>
       </Container>
     </Navbar>
   );
