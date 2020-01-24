@@ -65,14 +65,47 @@ function IndexNavbar() {
     <Navbar className={classnames("fixed-top", navbarColor)} expand="lg">
       <Container>
         <div className="navbar-translate">
-          <NavbarBrand
-            data-placement="bottom"
-            href="/index"
-            target="_blank"
-            title="Coded by Creative Tim"
+          <Collapse
+              className="justify-content-end"
+              navbar
+              isOpen={navbarCollapse}
           >
-            Engineers Prague
-          </NavbarBrand>
+            <Nav navbar>
+              <NavItem>
+                <NavLink
+                    data-placement="bottom"
+                    href="https://twitter.com/engineersprague"
+                    target="_blank"
+                    title="Sledujte nás na Twitteru"
+                >
+                  <i className="fa fa-twitter" />
+                  <p className="d-lg-none">Twitter</p>
+                </NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink
+                    data-placement="bottom"
+                    href="https://www.facebook.com/engineersprague"
+                    target="_blank"
+                    title="Sledujte nás na Facebooku"
+                >
+                  <i className="fa fa-facebook-square" />
+                  <p className="d-lg-none">Facebook</p>
+                </NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink
+                    data-placement="bottom"
+                    href="https://www.instagram.com/engineersprague"
+                    target="_blank"
+                    title="Sledujte nás na Instagramu"
+                >
+                  <i className="fa fa-instagram" />
+                  <p className="d-lg-none">Instagram</p>
+                </NavLink>
+              </NavItem>
+            </Nav>
+          </Collapse>
           <button
             aria-expanded={navbarCollapse}
             className={classnames("navbar-toggler navbar-toggler", {
@@ -92,56 +125,34 @@ function IndexNavbar() {
         >
           <Nav navbar>
             <NavItem>
-              <NavLink
+            <NavbarBrand
                 data-placement="bottom"
-                href="https://twitter.com/engineersprague"
+                href="/index"
                 target="_blank"
-                title="Sledujte nás na Twitteru"
-              >
-                <i className="fa fa-twitter" />
-                <p className="d-lg-none">Twitter</p>
-              </NavLink>
+                title="Coded by Creative Tim"
+            >
+              O Nás
+            </NavbarBrand>
             </NavItem>
             <NavItem>
-              <NavLink
-                data-placement="bottom"
-                href="https://www.facebook.com/engineersprague"
-                target="_blank"
-                title="Sledujte nás na Facebooku"
+              <NavbarBrand
+                  data-placement="bottom"
+                  href="/index"
+                  target="_blank"
+                  title="Coded by Creative Tim"
               >
-                <i className="fa fa-facebook-square" />
-                <p className="d-lg-none">Facebook</p>
-              </NavLink>
+                Kontakty
+              </NavbarBrand>
             </NavItem>
             <NavItem>
-              <NavLink
-                data-placement="bottom"
-                href="https://www.instagram.com/engineersprague"
-                target="_blank"
-                title="Sledujte nás na Instagramu"
+              <NavbarBrand
+                  data-placement="bottom"
+                  href="/index"
+                  target="_blank"
+                  title="Coded by Creative Tim"
               >
-                <i className="fa fa-instagram" />
-                <p className="d-lg-none">Instagram</p>
-              </NavLink>
-            </NavItem>
-            <NavItem>
-              <NavLink
-                data-placement="bottom"
-                href="https://www.github.com/CreativeTimOfficial/paper-kit-react?ref=creativetim"
-                target="_blank"
-                title="Star on GitHub"
-              >
-                <i className="fa fa-github" />
-                <p className="d-lg-none">GitHub</p>
-              </NavLink>
-            </NavItem>
-            <NavItem>
-              <NavLink
-                href="https://demos.creative-tim.com/paper-kit-react/#/documentation?ref=pkr-index-navbar"
-                target="_blank"
-              >
-                <i className="nc-icon nc-book-bookmark" /> Documentation
-              </NavLink>
+                Sponzoři
+              </NavbarBrand>
             </NavItem>
             <NavItem>
               <Button
@@ -149,7 +160,6 @@ function IndexNavbar() {
                 color="danger"
                 href="#pablo"
                 target="_blank"
-                disabled
               >
                 Koupit lístky
               </Button>
