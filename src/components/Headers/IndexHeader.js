@@ -51,7 +51,7 @@ function IndexHeader() {
               </div>
             </div>
             <h2 className="presentation-subtitle text-center">
-              Backbone Bitva o Prahu!
+              Backbone Bitva o Prahu 2020!
             </h2>
           </Container>
         </div>

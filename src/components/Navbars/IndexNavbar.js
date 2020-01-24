@@ -161,7 +161,7 @@ function IndexNavbar() {
                 href="#pablo"
                 target="_blank"
               >
-                Koupit lístky
+                Vstupenky
               </Button>
             </NavItem>
           </Nav>
