@@ -1,23 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4c61b653db8a06f0f19d861b84df1f1",
+    "revision": "9f5a8994030ab6a22763ed81bfd0b0a4",
     "url": "/BackboneBitva/index.html"
   },
   {
-    "revision": "6537d3fcd621d2caa4df",
-    "url": "/BackboneBitva/static/css/main.edc6e408.chunk.css"
+    "revision": "452742aec0b7d2b741d7",
+    "url": "/BackboneBitva/static/css/main.4ef758af.chunk.css"
   },
   {
-    "revision": "98615fdda281f8762f50",
-    "url": "/BackboneBitva/static/js/2.1244c186.chunk.js"
+    "revision": "c33b68624da2c3d3abfe",
+    "url": "/BackboneBitva/static/js/2.8389c983.chunk.js"
   },
   {
-    "revision": "6537d3fcd621d2caa4df",
-    "url": "/BackboneBitva/static/js/main.68803372.chunk.js"
+    "revision": "452742aec0b7d2b741d7",
+    "url": "/BackboneBitva/static/js/main.0590d758.chunk.js"
   },
   {
     "revision": "2f0c8921e1238455f577",
     "url": "/BackboneBitva/static/js/runtime~main.97ea1186.js"
+  },
+  {
+    "revision": "40dad7f5b12701b1652cb77e819198d4",
+    "url": "/BackboneBitva/static/media/001.40dad7f5.jpg"
+  },
+  {
+    "revision": "dd69d18d16c4991b7b74f9730acf2656",
+    "url": "/BackboneBitva/static/media/002.dd69d18d.jpg"
+  },
+  {
+    "revision": "1404165ab5e12b71f861157894fb70cf",
+    "url": "/BackboneBitva/static/media/003.1404165a.jpg"
+  },
+  {
+    "revision": "b0837e8842deb35f3d7b024830d363fc",
+    "url": "/BackboneBitva/static/media/004.b0837e88.jpg"
+  },
+  {
+    "revision": "ae3795bc48c8ea37c0cf23fe41236767",
+    "url": "/BackboneBitva/static/media/005.ae3795bc.jpg"
   },
   {
     "revision": "bfc688ca490f0079051aea5b8ec75cbe",
@@ -56,10 +76,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BackboneBitva/static/media/fabio-mangione.f26c34bb.jpg"
   },
   {
-    "revision": "1331ba97560cc13103d379a8843ad1dc",
-    "url": "/BackboneBitva/static/media/federico-beccari.1331ba97.jpg"
-  },
-  {
     "revision": "7812184c3710d9623c684956fe048ddd",
     "url": "/BackboneBitva/static/media/fog-low.7812184c.png"
   },
@@ -70,10 +86,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "76ff47ae5c64ccda5af18326bb272058",
     "url": "/BackboneBitva/static/media/joe-gardner-2.76ff47ae.jpg"
-  },
-  {
-    "revision": "8a26aabcc3fe4dd8289d9f379c9f48c6",
-    "url": "/BackboneBitva/static/media/joshua-stannard.8a26aabc.jpg"
   },
   {
     "revision": "e06d84cb846db2a463ac3d904ac0c362",
@@ -110,10 +122,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ed8128994a7eed31e8ebeba831ed040c",
     "url": "/BackboneBitva/static/media/profile-page.ed812899.png"
-  },
-  {
-    "revision": "29df8117c07250e9b1ea8e3a67627f67",
-    "url": "/BackboneBitva/static/media/soroush-karimi.29df8117.jpg"
   },
   {
     "revision": "fe3a7838dddb1fbf6901af17ca246ea1",
