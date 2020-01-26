@@ -33,7 +33,7 @@ import RegisterPage from "views/examples/RegisterPage.js";
 // others
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename={'/BackboneBitva/'}>
     <Switch>
       <Route path="/index" render={props => <Index {...props} />} />
       <Route
@@ -52,7 +52,7 @@ ReactDOM.render(
         path="/register-page"
         render={props => <RegisterPage {...props} />}
       />
-      <Redirect to="/index" />
+      <Redirect to="/BackboneBitva/index" />
     </Switch>
   </BrowserRouter>,
   document.getElementById("root")

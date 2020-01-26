@@ -1,4 +1,5 @@
 {
+  "homepage": "https://marekklement.github.io/BackboneBitva",
   "name": "paper-kit-react",
   "version": "1.0.0",
   "private": true,
@@ -25,6 +26,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start",
@@ -49,5 +52,9 @@
   },
   "optionalDependencies": {
     "typescript": "3.5.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0",
+    "gulp-gh-pages": "^0.5.4"
   }
 }
