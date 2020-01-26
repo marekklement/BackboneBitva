@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e592aa645bb448d817c610f23f8b37a1",
+    "revision": "c4c61b653db8a06f0f19d861b84df1f1",
     "url": "/BackboneBitva/index.html"
   },
   {
-    "revision": "04200705fbf7cc795aa8",
-    "url": "/BackboneBitva/static/css/main.6ebc9fad.chunk.css"
+    "revision": "6537d3fcd621d2caa4df",
+    "url": "/BackboneBitva/static/css/main.edc6e408.chunk.css"
   },
   {
-    "revision": "10df74863ef3cfcae9db",
-    "url": "/BackboneBitva/static/js/2.a5c9b508.chunk.js"
+    "revision": "98615fdda281f8762f50",
+    "url": "/BackboneBitva/static/js/2.1244c186.chunk.js"
   },
   {
-    "revision": "04200705fbf7cc795aa8",
-    "url": "/BackboneBitva/static/js/main.28868b3b.chunk.js"
+    "revision": "6537d3fcd621d2caa4df",
+    "url": "/BackboneBitva/static/js/main.68803372.chunk.js"
   },
   {
     "revision": "2f0c8921e1238455f577",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bfc688ca490f0079051aea5b8ec75cbe",
     "url": "/BackboneBitva/static/media/ayo-ogunseinde-2.bfc688ca.jpg"
+  },
+  {
+    "revision": "d7be618db77dc5fe6273c9d0b3acc4d2",
+    "url": "/BackboneBitva/static/media/backbone.d7be618d.png"
   },
   {
     "revision": "340ed9601a7508c376c8409fc2948cc5",
