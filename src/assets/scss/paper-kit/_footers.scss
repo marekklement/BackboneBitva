@@ -22,7 +22,7 @@
     text-align: center;
 }
 .footer nav > ul a:not(.btn) {
-    color: #777777;
+    color: white;
     display: block;
     margin-bottom: 3px;
     line-height: 1.6;
@@ -33,11 +33,11 @@
 }
 .footer nav > ul a:not(.btn):hover,
 .footer nav > ul a:not(.btn):focus {
-  color: #777777;
+  color: white;
   opacity: 1;
 }
 .footer .copyright {
-  color: #777777;
+  color: white;
   padding: 10px 0px;
   font-size: 14px;
   margin: 15px 3px;
@@ -45,15 +45,15 @@
   text-align: center;
 }
 .footer .heart{
-    color: #EB5E28;
+    color: white;
 }
 .footer{
-    background-color: $white-color;
+    background-color: $blueENG;
     line-height: $line-height;
 
     &.footer-black{
         h4{
-            color: $white-color;
+            color: white;
         }
     }
 

@@ -15,7 +15,7 @@ function Footer() {
                   href="https://www.univerzitnihokej.cz"
                   target="_blank"
                 >
-                  Univerzitní hokej
+                Univerzitní hokej
                 </a>
               </li>
               <li>

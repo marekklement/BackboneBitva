@@ -32,6 +32,7 @@ import {
 } from "reactstrap";
 import Scrollchor from 'react-scrollchor';
 
+
 function IndexNavbar() {
   const [navbarColor, setNavbarColor] = React.useState("navbar-transparent");
   const [navbarCollapse, setNavbarCollapse] = React.useState(false);
@@ -71,7 +72,7 @@ function IndexNavbar() {
           isOpen={navbarCollapse}
         >
           <Nav navbar>
-            <NavItem>
+            {/*<NavItem>
               <NavLink
                   data-placement="bottom"
                   href="https://twitter.com/engineersprague"
@@ -81,11 +82,11 @@ function IndexNavbar() {
                 <i className="fa fa-twitter" />
                 <p className="d-lg-none">Twitter</p>
               </NavLink>
-            </NavItem>
+            </NavItem>*/}
             <NavItem>
               <NavLink
                   data-placement="bottom"
-                  href="https://www.facebook.com/engineersprague"
+                  href="https://www.facebook.com/bitvaoprahu"
                   target="_blank"
                   title="Sledujte nás na Facebooku"
               >
@@ -96,7 +97,7 @@ function IndexNavbar() {
             <NavItem>
               <NavLink
                   data-placement="bottom"
-                  href="https://www.instagram.com/engineersprague"
+                  href="https://www.instagram.com/bitvaoprahu"
                   target="_blank"
                   title="Sledujte nás na Instagramu"
               >
@@ -105,13 +106,13 @@ function IndexNavbar() {
               </NavLink>
             </NavItem>
             <NavItem>
-              <Scrollchor to="#o-nas" className="nav-link">O nás</Scrollchor>
+              <Scrollchor beforeAnimate={toggleNavbarCollapse} to="#o-nas" className="nav-link">O nás</Scrollchor>
             </NavItem>
             <NavItem>
-              <Scrollchor to="#sponzori" className="nav-link">Sponzoři</Scrollchor>
+              <Scrollchor beforeAnimate={toggleNavbarCollapse} to="#sponzori" className="nav-link">Sponzoři</Scrollchor>
             </NavItem>
             <NavItem>
-              <Scrollchor to="#kontakt" className="nav-link">Kontakt</Scrollchor>
+              <Scrollchor beforeAnimate={toggleNavbarCollapse} to="#kontakt" className="nav-link">Kontakt</Scrollchor>
             </NavItem>
             <NavItem>
               <Button
