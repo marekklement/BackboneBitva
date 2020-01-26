@@ -4,8 +4,9 @@ class Contacts extends Component{
 
   render() {
     return (
-        <div>
-          akajakjkdjd
+        <div className="section-dark">
+          <h1>Kontakt</h1>
+          <br></br><br></br><br></br><br></br>
         </div>
     );
   }

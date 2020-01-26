@@ -52,7 +52,7 @@ ReactDOM.render(
         path="/register-page"
         render={props => <RegisterPage {...props} />}
       />
-      <Redirect to="/BackboneBitva/index" />
+      <Redirect to="/index" />
     </Switch>
   </BrowserRouter>,
   document.getElementById("root")

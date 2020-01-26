@@ -30,6 +30,7 @@ import {
   Nav,
   Container
 } from "reactstrap";
+import Scrollchor from 'react-scrollchor';
 
 function IndexNavbar() {
   const [navbarColor, setNavbarColor] = React.useState("navbar-transparent");
@@ -104,34 +105,13 @@ function IndexNavbar() {
               </NavLink>
             </NavItem>
             <NavItem>
-            <NavbarBrand
-                data-placement="bottom"
-                href="/index"
-                target="_blank"
-                title="Coded by Creative Tim"
-            >
-              O Nás
-            </NavbarBrand>
+              <Scrollchor to="#o-nas" className="nav-link">O nás</Scrollchor>
             </NavItem>
             <NavItem>
-              <NavbarBrand
-                  data-placement="bottom"
-                  href="/index"
-                  target="_blank"
-                  title="Coded by Creative Tim"
-              >
-                Kontakty
-              </NavbarBrand>
+              <Scrollchor to="#sponzori" className="nav-link">Sponzoři</Scrollchor>
             </NavItem>
             <NavItem>
-              <NavbarBrand
-                  data-placement="bottom"
-                  href="/index"
-                  target="_blank"
-                  title="Coded by Creative Tim"
-              >
-                Sponzoři
-              </NavbarBrand>
+              <Scrollchor to="#kontakt" className="nav-link">Kontakt</Scrollchor>
             </NavItem>
             <NavItem>
               <Button

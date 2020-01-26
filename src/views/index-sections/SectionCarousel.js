@@ -34,19 +34,29 @@ import {
 
 const items = [
   {
-    src: require("assets/img/soroush-karimi.jpg"),
-    altText: "Somewhere",
-    caption: "Somewhere"
+    src: require("images/galery/001.jpg"),
+    altText: "Bitva",
+    caption: "Bitva"
   },
   {
-    src: require("assets/img/federico-beccari.jpg"),
-    altText: "Somewhere else",
-    caption: "Somewhere else"
+    src: require("images/galery/002.jpg"),
+    altText: "Bitva",
+    caption: "Bitva"
   },
   {
-    src: require("assets/img/joshua-stannard.jpg"),
-    altText: "Here it is",
-    caption: "Here it is"
+    src: require("images/galery/003.jpg"),
+    altText: "Bitva",
+    caption: "Bitva"
+  },
+  {
+    src: require("images/galery/004.jpg"),
+    altText: "Bitva",
+    caption: "Bitva"
+  },
+  {
+    src: require("images/galery/005.jpg"),
+    altText: "Bitva",
+    caption: "Bitva"
   }
 ];
 
@@ -75,7 +85,6 @@ function SectionCarousel() {
   };
   return (
     <>
-      <div className="section pt-o" id="carousel">
         <Container>
           <Row>
             <Col className="ml-auto mr-auto" md="8">
@@ -136,7 +145,6 @@ function SectionCarousel() {
             </Col>
           </Row>
         </Container>
-      </div>{" "}
     </>
   );
 }
