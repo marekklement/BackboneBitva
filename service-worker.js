@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BackboneBitva/precache-manifest.eff3bdbb12a57f7879f947f4d5fc19ea.js"
+  "/BackboneBitva/precache-manifest.322c11353b0d0b8aa924b38d280b9374.js"
 );
 
 self.addEventListener('message', (event) => {
