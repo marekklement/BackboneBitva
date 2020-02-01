@@ -19,15 +19,6 @@
       color: white !important;
     }
 
-    &-collapse.show {
-      &::after {
-         background-color: white;
-      }
-      a:not(.btn), p, i {
-             color: $blueENG !important;
-      }
-    }
-
     .navbar-brand {
         font-weight: $font-weight-bold;
         margin: $navbar-margin-brand;
