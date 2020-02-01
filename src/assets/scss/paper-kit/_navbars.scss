@@ -14,6 +14,17 @@
     padding: 0;
     background: $white-color;
     box-shadow: 0 6px 10px -4px rgba(0, 0, 0, 0.15);
+    &-transparent i {
+      color: white !important;
+    }
+    &-collapse {
+      &::after {
+         background-color: white;
+      }
+      a:not(.btn), p, i, a {
+             color: $blueENG !important;
+      }
+    }
 
     .navbar-brand {
         font-weight: $font-weight-bold;
@@ -67,6 +78,7 @@
             font-size: 17px;
             position: relative;
             right: 5px;
+            color: #66615b;
         }
         .dropdown-menu {
             border-radius: $border-radius-extreme;
@@ -92,7 +104,6 @@
                 }
                 i{
                     display: inline;
-                    color: white;
                     &:hover{
                       color: $orangeENG;
                     }
@@ -117,7 +128,7 @@
         }
 
         &:after {
-          background-color: $blueENG;
+          background-color: white;
         }
     }
     #navbarSupportedContent{
@@ -236,7 +247,7 @@
         .nav-item .nav-link:hover,
         .nav-item .nav-link:focus{
             background-color: transparent;
-            color: black;
+            color: $orangeENG;
             @include opacity(1);
         }
         .nav .nav-item a.btn:hover{
