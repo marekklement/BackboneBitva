@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ff5a22a0901f684ebe3167ba496e5ad",
+    "revision": "8a02fd8e1b5a493a3941fad4a81c445b",
     "url": "/BackboneBitva/index.html"
   },
   {
-    "revision": "fbc4b2e896daf21d954a",
-    "url": "/BackboneBitva/static/css/main.77968638.chunk.css"
+    "revision": "d724990581ad24feb18f",
+    "url": "/BackboneBitva/static/css/main.f8242ebf.chunk.css"
   },
   {
-    "revision": "c33b68624da2c3d3abfe",
-    "url": "/BackboneBitva/static/js/2.8389c983.chunk.js"
+    "revision": "79bfd59caac15f3b138f",
+    "url": "/BackboneBitva/static/js/2.632473d7.chunk.js"
   },
   {
-    "revision": "fbc4b2e896daf21d954a",
-    "url": "/BackboneBitva/static/js/main.4a956abc.chunk.js"
+    "revision": "d724990581ad24feb18f",
+    "url": "/BackboneBitva/static/js/main.ca5522ee.chunk.js"
   },
   {
     "revision": "2f0c8921e1238455f577",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ae3795bc48c8ea37c0cf23fe41236767",
     "url": "/BackboneBitva/static/media/005.ae3795bc.jpg"
+  },
+  {
+    "revision": "145ec884191d1c9b6f68aa51e9e8e418",
+    "url": "/BackboneBitva/static/media/akka.145ec884.jpg"
   },
   {
     "revision": "bfc688ca490f0079051aea5b8ec75cbe",
@@ -76,10 +80,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BackboneBitva/static/media/fabio-mangione.f26c34bb.jpg"
   },
   {
-    "revision": "7812184c3710d9623c684956fe048ddd",
-    "url": "/BackboneBitva/static/media/fog-low.7812184c.png"
-  },
-  {
     "revision": "efe053682ec97d330adad93c55dc7bd0",
     "url": "/BackboneBitva/static/media/ilya-yakover.efe05368.jpg"
   },
@@ -90,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e06d84cb846db2a463ac3d904ac0c362",
     "url": "/BackboneBitva/static/media/kaci-baum-2.e06d84cb.jpg"
+  },
+  {
+    "revision": "74d86cd432dbe12e2604777f03481dd0",
+    "url": "/BackboneBitva/static/media/kaufland.74d86cd4.png"
   },
   {
     "revision": "d65b63163c9caec8e994304bf1b1cfcc",
@@ -122,6 +126,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ed8128994a7eed31e8ebeba831ed040c",
     "url": "/BackboneBitva/static/media/profile-page.ed812899.png"
+  },
+  {
+    "revision": "d5c533cee4f1f867be8ba24096f39e9c",
+    "url": "/BackboneBitva/static/media/ulh.d5c533ce.png"
   },
   {
     "revision": "fe3a7838dddb1fbf6901af17ca246ea1",
