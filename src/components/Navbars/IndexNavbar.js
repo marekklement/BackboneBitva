@@ -106,13 +106,13 @@ function IndexNavbar() {
               </NavLink>
             </NavItem>
             <NavItem>
-              <Scrollchor beforeAnimate={toggleNavbarCollapse} to="#o-nas" className="nav-link">O nás</Scrollchor>
+              <p><Scrollchor beforeAnimate={toggleNavbarCollapse} to="#o-nas" className="nav-link">O nás</Scrollchor></p>
             </NavItem>
             <NavItem>
-              <Scrollchor beforeAnimate={toggleNavbarCollapse} to="#sponzori" className="nav-link">Sponzoři</Scrollchor>
+              <p><Scrollchor beforeAnimate={toggleNavbarCollapse} to="#sponzori" className="nav-link">Partneři</Scrollchor></p>
             </NavItem>
             <NavItem>
-              <Scrollchor beforeAnimate={toggleNavbarCollapse} to="#kontakt" className="nav-link">Kontakt</Scrollchor>
+              <p><Scrollchor beforeAnimate={toggleNavbarCollapse} to="#kontakt" className="nav-link">Kontakt</Scrollchor></p>
             </NavItem>
             <NavItem>
               <Button

@@ -43,13 +43,10 @@ function IndexHeader() {
               <Img
                 style={{width: 400, height: 400}}
                 src={logo} />
-              <div className="fog-low">
-                <img alt="..." src={require("assets/img/fog-low.png")} />
-              </div>
-              <div className="fog-low right">
-                <img alt="..." src={require("assets/img/fog-low.png")} />
-              </div>
             </div>
+            <h1 className="title text-center">
+              11.3.2020 - 17:00 - ZS EDEN
+            </h1>
             <h2 className="presentation-subtitle text-center">
               Backbone Bitva o Prahu 2020!
             </h2>

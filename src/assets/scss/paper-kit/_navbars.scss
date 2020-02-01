@@ -91,10 +91,11 @@
                     }
                 }
                 i{
-                  color: $blueENG;
-                  &:hover{
-                    color: $orangeENG;
-                  }
+                    display: inline;
+                    color: white;
+                    &:hover{
+                      color: $orangeENG;
+                    }
                 }
             }
             & .dropdown-item{
@@ -215,6 +216,7 @@
         color: $white-color;
         @include opacity(.9);
 
+
         &:focus,
         &:hover{
             background-color: transparent;
@@ -234,7 +236,7 @@
         .nav-item .nav-link:hover,
         .nav-item .nav-link:focus{
             background-color: transparent;
-            color: $orangeENG;
+            color: black;
             @include opacity(1);
         }
         .nav .nav-item a.btn:hover{
