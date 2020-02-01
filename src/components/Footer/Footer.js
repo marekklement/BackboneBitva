@@ -14,7 +14,7 @@ function Footer() {
                 <a
                   href="https://www.univerzitnihokej.cz"
                   target="_blank"
-                >
+                ><i className="fa fa-facebook-square" />
                 Univerzitní hokej
                 </a>
               </li>
@@ -22,7 +22,7 @@ function Footer() {
                 <a
                   href="http://www.facebook.com/engineersprague"
                   target="_blank"
-                >
+                ><i className="fa fa-facebook-square" />
                   Engineers Prague
                 </a>
               </li>
@@ -30,15 +30,15 @@ function Footer() {
                 <a
                   href="https://www.facebook.com/ukhockeyprague"
                   target="_blank"
-                >
+                ><i className="fa fa-facebook-square" />
                   UK Hockey Prague
                 </a>
               </li>
             </ul>
           </nav>
           <div className="credits ml-auto">
-            <span className="copyright">
-              © {new Date().getFullYear()} vytvořil{""} MK a Dalta webdesign
+            <span>
+              © {new Date().getFullYear()} vytvořeno{""} MK a Dalta.cz
             </span>
           </div>
         </Row>

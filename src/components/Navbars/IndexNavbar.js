@@ -116,10 +116,10 @@ function IndexNavbar() {
             </NavItem>
             <NavItem>
               <Button
+              onClick={() => { window.confirm('Vstupenky budou v prodeji od 8.2.2020!') }}
                 className="btn-round"
                 color="danger"
                 href="#pablo"
-                target="_blank"
               >
                 Vstupenky
               </Button>

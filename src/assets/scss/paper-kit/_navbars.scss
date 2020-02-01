@@ -1,3 +1,4 @@
+
 .nav {
   .nav-item{
     .nav-link:hover,
@@ -14,10 +15,6 @@
     padding: 0;
     background: $white-color;
     box-shadow: 0 6px 10px -4px rgba(0, 0, 0, 0.15);
-
-    &-transparent i {
-      color: white !important;
-    }
 
     .navbar-brand {
         font-weight: $font-weight-bold;
@@ -51,7 +48,7 @@
             font-size: $font-size-small;
             text-transform: uppercase;
             font-weight: 600;
-            color: $default-color;
+            color: $blueENG;
 
             p {
               margin: 0px 0px;
@@ -71,7 +68,6 @@
             font-size: 17px;
             position: relative;
             right: 5px;
-            color: #66615b;
         }
         .dropdown-menu {
             border-radius: $border-radius-extreme;
@@ -90,16 +86,6 @@
             & .nav-link{
                 p{
                     display: inline;
-                    color: white;
-                    &:hover{
-                      color: $orangeENG;
-                    }
-                }
-                i{
-                    display: inline;
-                    &:hover{
-                      color: $orangeENG;
-                    }
                 }
             }
             & .dropdown-item{
@@ -157,9 +143,6 @@
 
       .navbar-brand {
         color: $white-color;
-        &:hover{
-          color: $orangeENG;
-        }
       }
 
       .navbar-nav {
@@ -220,7 +203,6 @@
         color: $white-color;
         @include opacity(.9);
 
-
         &:focus,
         &:hover{
             background-color: transparent;
@@ -240,7 +222,7 @@
         .nav-item .nav-link:hover,
         .nav-item .nav-link:focus{
             background-color: transparent;
-            color: $orangeENG;
+            color: $white-color;
             @include opacity(1);
         }
         .nav .nav-item a.btn:hover{
