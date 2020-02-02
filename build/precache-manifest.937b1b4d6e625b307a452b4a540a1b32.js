@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed4f0744a0239251f7b5fbf11a1d5d45",
+    "revision": "28e1a5fbb8ae975aab61430800112793",
     "url": "/BackboneBitva/index.html"
   },
   {
-    "revision": "dda81820a5192b348f42",
+    "revision": "ef55838ea90979e7d221",
     "url": "/BackboneBitva/static/css/main.b4527d54.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BackboneBitva/static/js/2.16d2e614.chunk.js"
   },
   {
-    "revision": "dda81820a5192b348f42",
-    "url": "/BackboneBitva/static/js/main.5a2b13a6.chunk.js"
+    "revision": "ef55838ea90979e7d221",
+    "url": "/BackboneBitva/static/js/main.daaef6a5.chunk.js"
   },
   {
     "revision": "2f0c8921e1238455f577",
