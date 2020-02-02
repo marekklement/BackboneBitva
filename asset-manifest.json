@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/BackboneBitva/static/css/main.b4527d54.chunk.css",
+    "main.css": "/BackboneBitva/static/css/main.b6589c6d.chunk.css",
     "main.js": "/BackboneBitva/static/js/main.daaef6a5.chunk.js",
     "main.js.map": "/BackboneBitva/static/js/main.daaef6a5.chunk.js.map",
     "runtime~main.js": "/BackboneBitva/static/js/runtime~main.97ea1186.js",
@@ -8,9 +8,9 @@
     "static/js/2.16d2e614.chunk.js": "/BackboneBitva/static/js/2.16d2e614.chunk.js",
     "static/js/2.16d2e614.chunk.js.map": "/BackboneBitva/static/js/2.16d2e614.chunk.js.map",
     "index.html": "/BackboneBitva/index.html",
-    "precache-manifest.937b1b4d6e625b307a452b4a540a1b32.js": "/BackboneBitva/precache-manifest.937b1b4d6e625b307a452b4a540a1b32.js",
+    "precache-manifest.91fcb4c8312071bf2f085afaf3014547.js": "/BackboneBitva/precache-manifest.91fcb4c8312071bf2f085afaf3014547.js",
     "service-worker.js": "/BackboneBitva/service-worker.js",
-    "static/css/main.b4527d54.chunk.css.map": "/BackboneBitva/static/css/main.b4527d54.chunk.css.map",
+    "static/css/main.b6589c6d.chunk.css.map": "/BackboneBitva/static/css/main.b6589c6d.chunk.css.map",
     "static/media/001.jpg": "/BackboneBitva/static/media/001.40dad7f5.jpg",
     "static/media/002.jpg": "/BackboneBitva/static/media/002.dd69d18d.jpg",
     "static/media/003.jpg": "/BackboneBitva/static/media/003.1404165a.jpg",
