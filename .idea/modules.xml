@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BackboneBitva.iml" filepath="$PROJECT_DIR$/BackboneBitva.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/assets/img/EmotionAdaptationLibrary/app/src/main/main.iml" filepath="$PROJECT_DIR$/src/assets/img/EmotionAdaptationLibrary/app/src/main/main.iml" />
     </modules>
   </component>
 </project>
