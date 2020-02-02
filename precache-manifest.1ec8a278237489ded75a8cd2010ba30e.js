@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a122c5b690a2d1763aeffe2bc486084",
+    "revision": "ed4f0744a0239251f7b5fbf11a1d5d45",
     "url": "/BackboneBitva/index.html"
   },
   {
-    "revision": "cb89fd60b4b3aab01fd2",
-    "url": "/BackboneBitva/static/css/main.dd0b76ab.chunk.css"
+    "revision": "dda81820a5192b348f42",
+    "url": "/BackboneBitva/static/css/main.b4527d54.chunk.css"
   },
   {
-    "revision": "79bfd59caac15f3b138f",
-    "url": "/BackboneBitva/static/js/2.632473d7.chunk.js"
+    "revision": "4919a7facc1f5fa9b795",
+    "url": "/BackboneBitva/static/js/2.16d2e614.chunk.js"
   },
   {
-    "revision": "cb89fd60b4b3aab01fd2",
-    "url": "/BackboneBitva/static/js/main.049137db.chunk.js"
+    "revision": "dda81820a5192b348f42",
+    "url": "/BackboneBitva/static/js/main.5a2b13a6.chunk.js"
   },
   {
     "revision": "2f0c8921e1238455f577",
@@ -44,10 +44,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BackboneBitva/static/media/akka.145ec884.jpg"
   },
   {
-    "revision": "bfc688ca490f0079051aea5b8ec75cbe",
-    "url": "/BackboneBitva/static/media/ayo-ogunseinde-2.bfc688ca.jpg"
-  },
-  {
     "revision": "d7be618db77dc5fe6273c9d0b3acc4d2",
     "url": "/BackboneBitva/static/media/backbone.d7be618d.png"
   },
@@ -56,52 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BackboneBitva/static/media/background.340ed960.jpg"
   },
   {
-    "revision": "bb4b9ac9fd07e48f86c719495b65341c",
-    "url": "/BackboneBitva/static/media/clem-onojeghuo-2.bb4b9ac9.jpg"
-  },
-  {
-    "revision": "ae11d928aae96245020bb59a1910f758",
-    "url": "/BackboneBitva/static/media/clem-onojeghuo-3.ae11d928.jpg"
-  },
-  {
     "revision": "61c4e0007254eb55e4691291881a4bfb",
     "url": "/BackboneBitva/static/media/clouds.61c4e000.png"
   },
   {
-    "revision": "facbbdb787d77f975904ba9fa99b15c6",
-    "url": "/BackboneBitva/static/media/daniel-olahh.facbbdb7.jpg"
-  },
-  {
-    "revision": "2051e0e847124c536df9c01a3f672032",
-    "url": "/BackboneBitva/static/media/erik-lucatero-2.2051e0e8.jpg"
-  },
-  {
-    "revision": "f26c34bb88eb83d5aae99c7dbf3ddd48",
-    "url": "/BackboneBitva/static/media/fabio-mangione.f26c34bb.jpg"
-  },
-  {
-    "revision": "efe053682ec97d330adad93c55dc7bd0",
-    "url": "/BackboneBitva/static/media/ilya-yakover.efe05368.jpg"
-  },
-  {
-    "revision": "76ff47ae5c64ccda5af18326bb272058",
-    "url": "/BackboneBitva/static/media/joe-gardner-2.76ff47ae.jpg"
-  },
-  {
-    "revision": "e06d84cb846db2a463ac3d904ac0c362",
-    "url": "/BackboneBitva/static/media/kaci-baum-2.e06d84cb.jpg"
-  },
-  {
     "revision": "74d86cd432dbe12e2604777f03481dd0",
     "url": "/BackboneBitva/static/media/kaufland.74d86cd4.png"
-  },
-  {
-    "revision": "d65b63163c9caec8e994304bf1b1cfcc",
-    "url": "/BackboneBitva/static/media/landing-page.d65b6316.png"
-  },
-  {
-    "revision": "be9fa468a029a195601370492c15519d",
-    "url": "/BackboneBitva/static/media/login-image.be9fa468.jpg"
   },
   {
     "revision": "6a5ed8e564264d5a571802c9cabfe009",
@@ -124,15 +80,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BackboneBitva/static/media/nucleo-icons.f32ed5ad.eot"
   },
   {
-    "revision": "ed8128994a7eed31e8ebeba831ed040c",
-    "url": "/BackboneBitva/static/media/profile-page.ed812899.png"
-  },
-  {
     "revision": "d5c533cee4f1f867be8ba24096f39e9c",
     "url": "/BackboneBitva/static/media/ulh.d5c533ce.png"
-  },
-  {
-    "revision": "fe3a7838dddb1fbf6901af17ca246ea1",
-    "url": "/BackboneBitva/static/media/uriel-soberanes.fe3a7838.jpg"
   }
 ]);
