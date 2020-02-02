@@ -25,6 +25,20 @@ class AboutUs extends Component {
                         švech!</p><p>Letos, konkrétně 11. března 2020, se Bitva o Prahu přesouvá do prostor Tipsport
                         Areny a poprvé bude vysílána také živě v České televizi!</p>
                         <br/><br/>
+                        <Row className="align-items-center">
+                            <Col md="4" sm="6">
+                                <img className="img-circle img-no-padding img-responsive" alt="backbone"
+                                     src={require("images/sponzors/engenier.png")}/>
+                            </Col>
+                            <Col md="4" sm="6">
+                                <div className="align-items-center">X</div>
+                            </Col>
+                            <Col md="4" sm="5">
+                                <img className="img-circle img-no-padding img-responsive" alt="backbone"
+                                     src={require("images/sponzors/uk.png")}/>
+                            </Col>
+                        </Row>
+                        <br/>
                         <Container>
                             <div className="title">
                                 <h3>Videa</h3>
@@ -32,15 +46,15 @@ class AboutUs extends Component {
                             <Row>
                                 <Col md="4" sm="6">
                                     <iframe src="//www.youtube.com/embed/wjqHPCT1aw4" title="video1"
-    frameBorder="0"/>
+                                            frameBorder="0"/>
                                 </Col>
                                 <Col md="4" sm="6">
                                     <iframe src="https://www.youtube.com/embed/9vUUJpnhQTw" title="video2"
-    frameBorder="0"/>
+                                            frameBorder="0"/>
                                 </Col>
                                 <Col md="4" sm="6">
                                     <iframe src="https://www.youtube.com/embed/nvIKMhvnAJo" title="video3"
-    frameBorder="0"/>
+                                            frameBorder="0"/>
                                 </Col>
                             </Row>
                         </Container>
