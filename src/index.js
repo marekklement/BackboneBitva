@@ -7,7 +7,7 @@ import "assets/demo/demo.css";
 import Index from "views/Index.js";
 
 ReactDOM.render(
-    <BrowserRouter basename={'/BackboneBitva/'}>
+    <BrowserRouter basename={'/'}>
         <Switch>
             <Route path="/index" render={props => <Index {...props} />}/>
             <Redirect to="/index"/>
