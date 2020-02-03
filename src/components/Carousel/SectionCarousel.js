@@ -12,27 +12,27 @@ import {
 
 const items = [
     {
-        src: require("images/galery/001.jpg"),
+        src: require("assets/img/galery/001.jpg"),
         altText: "Bitva",
         caption: "Bitva"
     },
     {
-        src: require("images/galery/002.jpg"),
+        src: require("assets/img/galery/002.jpg"),
         altText: "Bitva",
         caption: "Bitva"
     },
     {
-        src: require("images/galery/003.jpg"),
+        src: require("assets/img/galery/003.jpg"),
         altText: "Bitva",
         caption: "Bitva"
     },
     {
-        src: require("images/galery/004.jpg"),
+        src: require("assets/img/galery/004.jpg"),
         altText: "Bitva",
         caption: "Bitva"
     },
     {
-        src: require("images/galery/005.jpg"),
+        src: require("assets/img/galery/005.jpg"),
         altText: "Bitva",
         caption: "Bitva"
     }

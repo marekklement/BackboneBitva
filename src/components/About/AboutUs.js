@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {Container, Row, Col} from "reactstrap";
-import SectionCarousel from 'views/index-sections/SectionCarousel.js';
+import SectionCarousel from '../Carousel/SectionCarousel.js';
 
 class AboutUs extends Component {
 
@@ -28,14 +28,14 @@ class AboutUs extends Component {
                         <Row className="align-items-center">
                             <Col md="4" sm="6">
                                 <img className="img-circle img-no-padding img-responsive" alt="backbone"
-                                     src={require("images/sponzors/engenier.png")}/>
+                                     src={require("assets/img/sponzors/engenier.png")}/>
                             </Col>
                             <Col md="4" sm="6">
                                 <div className="align-items-center">X</div>
                             </Col>
                             <Col md="4" sm="5">
                                 <img className="img-circle img-no-padding img-responsive" alt="backbone"
-                                     src={require("images/sponzors/uk.png")}/>
+                                     src={require("assets/img/sponzors/uk.png")}/>
                             </Col>
                         </Row>
                         <br/>

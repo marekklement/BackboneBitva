@@ -17,8 +17,8 @@ class Sponsors extends Component {
                             <h2>Generální partner</h2>
                         </Col>
                         <Col md="6" sm="4">
-                            <img className="img-circle img-no-padding img-responsive" alt="backbone"
-                                 src={require("images/sponzors/backbone.png")}/>
+                            <img className="img-circle img-no-padding img-responsive" alt="Backbone"
+                                 src={require("assets/img/sponzors/backbone.png")}/>
                         </Col>
                     </Row>
                     <Row className="align-items-center">
@@ -26,12 +26,12 @@ class Sponsors extends Component {
                             <h2>Partneři ULLH</h2>
                         </Col>
                         <Col md="3" sm="4">
-                            <img className="img-circle img-no-padding img-responsive" alt="backbone"
-                                 src={require("images/sponzors/tipsport.png")}/>
+                            <img className="img-circle img-no-padding img-responsive" alt="Tipsport"
+                                 src={require("assets/img/sponzors/tipsport.png")}/>
                         </Col>
                         <Col md="3" sm="4">
-                            <img className="img-circle img-no-padding img-responsive" alt="backbone"
-                                 src={require("images/sponzors/kaufland.png")}/>
+                            <img className="img-circle img-no-padding img-responsive" alt="Kaufland"
+                                 src={require("assets/img/sponzors/kaufland.png")}/>
                         </Col>
                     </Row><br></br>
                     <Row className="align-items-center">
@@ -39,16 +39,16 @@ class Sponsors extends Component {
                             <h2>Další partneři</h2>
                         </Col>
                         <Col md="2" sm="4">
-                            <img className="img-circle img-no-padding img-responsive" alt="backbone"
-                                 src={require("images/sponzors/ulh.png")}/>
+                            <img className="img-circle img-no-padding img-responsive" alt="ULLH"
+                                 src={require("assets/img/sponzors/ulh.png")}/>
+                        </Col>
+                        <Col md="2" sm="4">
+                            <img className="img-circle img-no-padding img-responsive" alt="Akka"
+                                 src={require("assets/img/sponzors/akka.jpg")}/>
                         </Col>
                         <Col md="2" sm="4">
                             <img className="img-circle img-no-padding img-responsive" alt="backbone"
-                                 src={require("images/sponzors/akka.jpg")}/>
-                        </Col>
-                        <Col md="2" sm="4">
-                            <img className="img-circle img-no-padding img-responsive" alt="backbone"
-                                 src={require("images/sponzors/backbone.png")}/>
+                                 src={require("assets/img/sponzors/backbone.png")}/>
                         </Col>
                     </Row>
                 </Container>

@@ -1,7 +1,7 @@
 import React from "react";
 import {Container} from "reactstrap";
 import Img from 'react-image';
-import logo from '../../images/logo-bitva.svg';
+import logo from '../../assets/img/logo/logo-bitva.svg';
 
 function IndexHeader() {
     return (
