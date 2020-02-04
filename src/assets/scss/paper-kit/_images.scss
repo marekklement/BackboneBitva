@@ -27,6 +27,36 @@
   max-width: 100%;
 }
 
+.img-cc {
+  background-color: $white-color;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 4px;
+  border-radius: 50% !important;
+  max-width: 65%;
+  box-shadow: 0 0 2pt 1pt white;
+}
+
+.img-small-cc {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 4px;
+  max-width: 30%;
+}
+
+.img-li-cc {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 4px;
+  max-width: 20%;
+}
+
+.img-my {
+  margin-bottom: 10px;
+  padding: 4px;
+  max-width: 100%;
+}
+
 .img-thumbnail {
   border: 0 none;
   border-radius: $border-radius-extreme;

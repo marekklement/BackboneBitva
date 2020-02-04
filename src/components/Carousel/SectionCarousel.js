@@ -35,6 +35,16 @@ const items = [
         src: require("assets/img/galery/005.jpg"),
         altText: "Bitva",
         caption: "Bitva"
+    },
+    {
+        src: require("assets/img/galery/006.jpg"),
+        altText: "Bitva",
+        caption: "Bitva"
+    },
+    {
+        src: require("assets/img/galery/007.jpg"),
+        altText: "Bitva",
+        caption: "Bitva"
     }
 ];
 

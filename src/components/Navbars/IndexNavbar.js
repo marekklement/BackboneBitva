@@ -74,8 +74,7 @@ function IndexNavbar() {
                             </NavLink>
                         </NavItem>
                         <NavItem>
-                            <p><Scrollchor beforeAnimate={toggleNavbarCollapse} to="#o-nas" className="nav-link">O
-                                nás</Scrollchor></p>
+                            <p><Scrollchor beforeAnimate={toggleNavbarCollapse} to="#o-nas" className="nav-link">Info</Scrollchor></p>
                         </NavItem>
                         <NavItem>
                             <p><Scrollchor beforeAnimate={toggleNavbarCollapse} to="#sponzori"

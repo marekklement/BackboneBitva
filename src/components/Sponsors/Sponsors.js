@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Container, Row, Col} from "reactstrap";
+import {Container} from "reactstrap";
 
 class Sponsors extends Component {
 
@@ -10,47 +10,36 @@ class Sponsors extends Component {
                     <div>
                         <h1>
                             Partneři
-                        </h1><br></br><br></br>
+                        </h1><br></br>
                     </div>
-                    <Row className="align-items-center">
-                        <Col md="6" sm="4">
-                            <h2>Generální partner</h2>
-                        </Col>
-                        <Col md="6" sm="4">
-                            <img className="img-circle img-no-padding img-responsive" alt="Backbone"
-                                 src={require("assets/img/sponzors/backbone.png")}/>
-                        </Col>
-                    </Row>
-                    <Row className="align-items-center">
-                        <Col md="6" sm="4">
-                            <h2>Partneři ULLH</h2>
-                        </Col>
-                        <Col md="3" sm="4">
-                            <img className="img-circle img-no-padding img-responsive" alt="Tipsport"
-                                 src={require("assets/img/sponzors/tipsport.png")}/>
-                        </Col>
-                        <Col md="3" sm="4">
-                            <img className="img-circle img-no-padding img-responsive" alt="Kaufland"
-                                 src={require("assets/img/sponzors/kaufland.png")}/>
-                        </Col>
-                    </Row><br></br>
-                    <Row className="align-items-center">
-                        <Col md="6" sm="4">
-                            <h2>Další partneři</h2>
-                        </Col>
-                        <Col md="2" sm="4">
-                            <img className="img-circle img-no-padding img-responsive" alt="ULLH"
-                                 src={require("assets/img/sponzors/ulh.png")}/>
-                        </Col>
-                        <Col md="2" sm="4">
-                            <img className="img-circle img-no-padding img-responsive" alt="Akka"
-                                 src={require("assets/img/sponzors/akka.jpg")}/>
-                        </Col>
-                        <Col md="2" sm="4">
-                            <img className="img-circle img-no-padding img-responsive" alt="backbone"
-                                 src={require("assets/img/sponzors/backbone.png")}/>
-                        </Col>
-                    </Row>
+                    <h2 className="h2-center">
+                        Generální partner
+                    </h2>
+                    <img className="img-circle img-no-padding img-responsive" alt="Backbone"
+                         src={require("assets/img/sponzors/backbone.png")}/>
+                     <h2 className="h2-center">
+                         Další partneři
+                     </h2><br></br>
+                    <div class="grid-container">
+                      <div class="grid-item"><img className="img-circle img-no-padding img-responsive" alt="Tipsport"
+                           src={require("assets/img/sponzors/tipsport.png")}/></div>
+                      <div class="grid-item"><img className="img-circle img-no-padding img-responsive" alt="Kaufland"
+                           src={require("assets/img/sponzors/kaufland.png")}/></div>
+                      <div class="grid-item"><img className="img-circle img-no-padding img-responsive" alt="ULLH"
+                           src={require("assets/img/sponzors/ulh.png")}/></div>
+                      <div class="grid-item"><img className="img-circle img-no-padding img-responsive" alt="Akka"
+                           src={require("assets/img/sponzors/akka.jpg")}/></div>
+                      <div class="grid-item"><img className="img-circle img-no-padding img-responsive" alt="backbone"
+                           src={require("assets/img/sponzors/ctsport.png")}/></div>
+                      <div class="grid-item"><img className="img-circle img-no-padding img-responsive" alt="AKKA"
+                           src={require("assets/img/sponzors/akka.jpg")}/></div>
+                      <div class="grid-item"><img className="img-circle img-no-padding img-responsive" alt="ČZU"
+                           src={require("assets/img/sponzors/czu.gif")}/></div>
+                      <div class="grid-item"><img className="img-circle img-no-padding img-responsive" alt="VŠE"
+                           src={require("assets/img/sponzors/vse.png")}/></div>
+                      <div class="grid-item"><img className="img-circle img-no-padding img-responsive" alt="ČVUT"
+                           src={require("assets/img/sponzors/cvut.jpeg")}/></div>
+                    </div>
                 </Container>
             </div>
         );

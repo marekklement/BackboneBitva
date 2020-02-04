@@ -10,8 +10,7 @@ function Footer() {
                         <ul>
                             <li>
                                 <a
-                                    href="https://www.univerzitnihokej.cz"
-                                    target="_blank"
+                                    href="https://www.facebook.com/univerzitnihokej"
                                 ><i className="fa fa-facebook-square"/>
                                     Univerzitní hokej
                                 </a>
@@ -19,15 +18,13 @@ function Footer() {
                             <li>
                                 <a
                                     href="http://www.facebook.com/engineersprague"
-                                    target="_blank"
                                 ><i className="fa fa-facebook-square"/>
                                     Engineers Prague
                                 </a>
                             </li>
                             <li>
                                 <a
-                                    href="https://www.facebook.com/ukhockeyprague"
-                                    target="_blank"
+                                    href="http://www.facebook.com/ukpraha.hockey"
                                 ><i className="fa fa-facebook-square"/>
                                     UK Hockey Prague
                                 </a>

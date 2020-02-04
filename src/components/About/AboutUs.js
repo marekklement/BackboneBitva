@@ -6,38 +6,29 @@ class AboutUs extends Component {
 
     render() {
         return (
-            <div className="section section-dark-blue">
+            <div className="section section-dark-blue-bck">
                 <Container className="tim-container">
                     <div>
                         <h1>
-                            O naší Bitvě o Prahu!
+                            Fenomén univerzitního hokeje v ČR roste. Velkolepé pražské derby odvysílá i Česká televize!
                         </h1><br/><br/>
                     </div>
                     <div>
-                        <p>Z utkání mezi dvěma pražskými týmy, tedy Engineers Prague a UK Hockey Prague, vzešla postupem
-                            času tradiční BITVA O PRAHU, která se v rámci univerzitního hokeje řadí mezi TOP zápasy.</p>
-                        <p>K pražskému derby na ledě si představte vyprodaný stadion, různorodý doprovodný program,
-                            soutěže o ceny, významné osobnosti jako čestné hosty, nebo studentské pochody jednotlivých
-                            univerzit na zimák, díky kterým se naladí ta správná atmosféra ještě před startem samotného
-                            duelu.</p><p>Tradičním místem pro derby je Zimní stadion Hvězda, kde inženýři odehrávají
-                        všechny domácí zápasy. V roce 2018 se povedlo po 20 letech zimák vyprodat právě díky tomuto
-                        utkání. Když 800 fanoušků zavítalo na legendární bitvu, tak stadion skutečně praskal ve
-                        švech!</p><p>Letos, konkrétně 11. března 2020, se Bitva o Prahu přesouvá do prostor Tipsport
-                        Areny a poprvé bude vysílána také živě v České televizi!</p>
+                        <p>TOP zápas v rámci <strong>Univerzitní ligy ledního hokeje (ULLH)</strong> s názvem Backbone Bitva o Prahu odehrají týmy Engineers Prague a UK Hockey Prague ve středu 11. března 2020 v pražském Edenu.
+                        <strong>Vrcholná akce sezóny</strong> pro pražské kluby začne v <strong>17:00</strong>. Zápas ze <strong>zimního stadionu Eden</strong> bude v přímém přenosu vysílat <strong>Česká televize</strong>.
+                        Pro přítomné, a to nejen studenty, je připraven zajímavý doprovodný program, soutěže, mezi hosty známé osobnosti, a především jedinečná atmosféra,
+                        která je pro všechny zápasy v ULLH typická.
+                        </p><p>Tým <strong>Engineers Prague</strong> je zastoupen hráči-studenty z univerzit <strong>ČVUT, VŠE a ČZU</strong>. <strong>UK Hockey Prague</strong> reprezentuje fakulty Univerzity Karlovy.
+                        Oba zmíněné pražské celky bojují spolu s šesti dalšími kluby v první sezóně ULLH o Pohár Jana Palacha. Svou oblibu si univerzitní hokej našel
+                        rychle a stává se v českém prostředí fenoménem stejně tak, jako podobné soutěže v zámoří. Potenciál samotné ligy roste. Důkazem je nastávající
+                        zápas s přívlastkem Bitva o Prahu, který se objeví poprvé živě na televizních obrazovkách na ČT sport. </p>
                         <br/><br/>
-                        <Row className="align-items-center">
-                            <Col md="4" sm="6">
-                                <img className="img-circle img-no-padding img-responsive" alt="backbone"
-                                     src={require("assets/img/sponzors/engenier.png")}/>
-                            </Col>
-                            <Col md="4" sm="6">
-                                <div className="align-items-center">X</div>
-                            </Col>
-                            <Col md="4" sm="5">
-                                <img className="img-circle img-no-padding img-responsive" alt="backbone"
-                                     src={require("assets/img/sponzors/uk.png")}/>
-                            </Col>
-                        </Row>
+                        <div className="h2-center">
+                              <img className="img-small-cc img-no-padding img-responsive" alt="eng"
+                             src={require("assets/img/logo/eng.png")}/>
+                              <img className="img-small-cc img-no-padding img-responsive" alt="uk"
+                                  src={require("assets/img/logo/uk.png")}/>
+                        </div>
                         <br/>
                         <Container>
                             <div className="title">

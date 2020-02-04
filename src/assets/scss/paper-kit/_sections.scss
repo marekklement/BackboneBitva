@@ -4,6 +4,23 @@
   background-color: #FFFFFF;
 }
 
+.section-centered {
+  margin: auto;
+  width: 50%;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+
+.grid-item {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
 .section-with-space {
   padding: 60px 0;
 }
@@ -31,14 +48,54 @@
   color: $blueENG;
 }
 
+.section-light-bck {
+  background-color: white;
+  color: $blueENG;
+  background-image:
+    linear-gradient(
+      rgba(255, 255, 255, 0.9),
+      rgba(255, 255, 255, 0.9)
+    ),
+    url(../../assets/img/galery/007.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+
 .section-dark-blue {
   background-color: $blueENG;
   color: white;
 }
 
+.section-dark-blue-bck {
+  background-color: $blueENG;
+  color: white;
+  background-image:
+    linear-gradient(
+      rgba(4, 30, 66, 0.95),
+      rgba(0, 0, 0, 0.9)
+    ),
+    url(../../assets/img/galery/003.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+
 .section-dark {
   background-color: #0b1011;
   color: $white-color;
+
+}
+
+.section-dark-bck {
+  background-color: #0b1011;
+  color: $white-color;
+  background-image:
+    linear-gradient(
+      rgba(0, 0, 0, 0.85),
+      rgba(0, 0, 0, 0.9)
+    ),
+    url(../../assets/img/galery/006.jpg);
+  background-size: cover;
+  background-position: center center;
 }
 
 .section-image,
