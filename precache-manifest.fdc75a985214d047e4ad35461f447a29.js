@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2e6c36dccf21c275f4be8da987ccf8b3",
+    "revision": "b77b76a9d45bfdc0dd5110f1b112c066",
     "url": "/index.html"
   },
   {
-    "revision": "db85b8709337aebc8fb0",
-    "url": "/static/css/main.9d43cd04.chunk.css"
+    "revision": "e45432cb4d8c9713e42d",
+    "url": "/static/css/main.c80b3c1a.chunk.css"
   },
   {
-    "revision": "635dab182eac21c3750e",
-    "url": "/static/js/2.9f70c25e.chunk.js"
+    "revision": "5c7aeede3b5fd19b0ff2",
+    "url": "/static/js/2.e33619e4.chunk.js"
   },
   {
-    "revision": "db85b8709337aebc8fb0",
-    "url": "/static/js/main.5fa3ef0c.chunk.js"
+    "revision": "e45432cb4d8c9713e42d",
+    "url": "/static/js/main.33dabc5c.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -40,8 +40,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/005.ae3795bc.jpg"
   },
   {
+    "revision": "4829e86074d7d590a2668cc74c157097",
+    "url": "/static/media/006.4829e860.jpg"
+  },
+  {
+    "revision": "b75e63cb464111e644811db659086841",
+    "url": "/static/media/007.b75e63cb.jpg"
+  },
+  {
     "revision": "145ec884191d1c9b6f68aa51e9e8e418",
     "url": "/static/media/akka.145ec884.jpg"
+  },
+  {
+    "revision": "9e6590b6ac30ceb3625b8bcd9365ef8b",
+    "url": "/static/media/ales.9e6590b6.jpg"
   },
   {
     "revision": "d7be618db77dc5fe6273c9d0b3acc4d2",
@@ -56,16 +68,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/clouds.61c4e000.png"
   },
   {
-    "revision": "69f21865be31a44592ce299ba905c894",
-    "url": "/static/media/engenier.69f21865.png"
+    "revision": "23043b0ca13a697502bd746de6a53cb0",
+    "url": "/static/media/ctsport.23043b0c.png"
+  },
+  {
+    "revision": "3cd7351048860db12e29f59dd9dc7beb",
+    "url": "/static/media/cvut.3cd73510.jpeg"
+  },
+  {
+    "revision": "663bf6aa52ce3ab3898381565a368e5b",
+    "url": "/static/media/czu.663bf6aa.gif"
+  },
+  {
+    "revision": "80e50b04bbb004e9e0f58dc6fddb75aa",
+    "url": "/static/media/eng.80e50b04.png"
   },
   {
     "revision": "74d86cd432dbe12e2604777f03481dd0",
     "url": "/static/media/kaufland.74d86cd4.png"
   },
   {
-    "revision": "6a5ed8e564264d5a571802c9cabfe009",
-    "url": "/static/media/logo-bitva.6a5ed8e5.svg"
+    "revision": "3684f30be2ac227d587fe3e597c05708",
+    "url": "/static/media/logo-bitva.3684f30b.svg"
   },
   {
     "revision": "48ac036da7c7923266266f63746fc5f1",
@@ -84,7 +108,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nucleo-icons.f32ed5ad.eot"
   },
   {
+    "revision": "81d32ce6343aaac5a4c345ff807d7aee",
+    "url": "/static/media/richie.81d32ce6.jpg"
+  },
+  {
+    "revision": "456a4ddd3b824be9d3e13253a9da83da",
+    "url": "/static/media/tomas.456a4ddd.jpg"
+  },
+  {
+    "revision": "73a8299f8913fac3c01f8ad6f28a4c0c",
+    "url": "/static/media/uk.73a8299f.png"
+  },
+  {
     "revision": "d5c533cee4f1f867be8ba24096f39e9c",
     "url": "/static/media/ulh.d5c533ce.png"
+  },
+  {
+    "revision": "309c4f324500c7a1d6f5e69561a0e2fc",
+    "url": "/static/media/vse.309c4f32.png"
   }
 ]);
