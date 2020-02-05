@@ -31,7 +31,7 @@ class Contacts extends Component {
                                     <img className="img-cc img-no-padding img-responsive" alt="Richard Jarošík"
                                          src={require("assets/img/contacts/richie.jpg")}/>
                                     <h3>Richard Jarošík</h3>
-                                    <div>richard.jarosik6520@seznam.cz</div>
+                                    <div>fandimkarlovce@gmail.com</div>
                                 </Col>
                             </Row>
                         </Container>

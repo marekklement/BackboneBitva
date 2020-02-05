@@ -10,18 +10,18 @@ class AboutUs extends Component {
                 <Container className="tim-container">
                     <div>
                         <h1>
-                            Fenomén univerzitního hokeje v ČR roste. Velkolepé pražské derby odvysílá i Česká televize!
+                            Fenomén univerzitního hokeje v ČR roste. Velkolepé pražské derby odvysílá <nobr>i&#x2005;</nobr>Česká televize!
                         </h1><br/><br/>
                     </div>
-                    <div>
-                        <p>TOP zápas v rámci <strong>Univerzitní ligy ledního hokeje (ULLH)</strong> s názvem Backbone Bitva o Prahu odehrají týmy Engineers Prague a UK Hockey Prague ve středu 11. března 2020 v pražském Edenu.
-                        <strong>Vrcholná akce sezóny</strong> pro pražské kluby začne v <strong>17:00</strong>. Zápas ze <strong>zimního stadionu Eden</strong> bude v přímém přenosu vysílat <strong>Česká televize</strong>.
-                        Pro přítomné, a to nejen studenty, je připraven zajímavý doprovodný program, soutěže, mezi hosty známé osobnosti, a především jedinečná atmosféra,
-                        která je pro všechny zápasy v ULLH typická.
-                        </p><p>Tým <strong>Engineers Prague</strong> je zastoupen hráči-studenty z univerzit <strong>ČVUT, VŠE a ČZU</strong>. <strong>UK Hockey Prague</strong> reprezentuje fakulty Univerzity Karlovy.
-                        Oba zmíněné pražské celky bojují spolu s šesti dalšími kluby v první sezóně ULLH o Pohár Jana Palacha. Svou oblibu si univerzitní hokej našel
-                        rychle a stává se v českém prostředí fenoménem stejně tak, jako podobné soutěže v zámoří. Potenciál samotné ligy roste. Důkazem je nastávající
-                        zápas s přívlastkem Bitva o Prahu, který se objeví poprvé živě na televizních obrazovkách na ČT sport. </p>
+                    <div className="just">
+                        <p>TOP zápas v rámci <strong>Univerzitní ligy ledního hokeje (ULLH)</strong> <nobr>s&#x2005;</nobr>názvem Backbone Bitva <nobr>o&#x2005;am</nobr>Prahu odehrají týmy Engineers Prague <nobr>a&#x2005;</nobr>UK Hockey Prague ve středu 11. března 2020 <nobr>v&#x2005;</nobr>pražském Edenu.
+                        <strong> Vrcholná akce sezóny</strong> pro pražské kluby začne <nobr>v&#x2005;</nobr><strong>17:00</strong>. Zápas ze <strong>zimního stadionu Eden</strong> bude <nobr>v&#x2005;</nobr>přímém přenosu vysílat <strong>Česká televize</strong>.
+                        Pro přítomné, <nobr>a&#x2005;</nobr>to nejen studenty, je připraven zajímavý doprovodný program, soutěže, mezi hosty známé osobnosti, <nobr>a&#x2005;</nobr>především jedinečná atmosféra,
+                        která je pro všechny zápasy <nobr>v&#x2005;</nobr>ULLH typická.
+                        </p><p>Tým <strong>Engineers Prague</strong> je zastoupen hráči-studenty <nobr>z&#x2005;</nobr>univerzit <strong>ČVUT, VŠE a ČZU</strong>. <strong>UK Hockey Prague</strong> reprezentují studenti Univerzity Karlovy.
+                        Oba zmíněné pražské celky bojují spolu <nobr>s&#x2005;</nobr>šesti dalšími kluby <nobr>v&#x2005;</nobr> první sezóně ULLH o Pohár Jana Palacha. Svou oblibu si univerzitní hokej našel
+                        rychle <nobr>a&#x2005;</nobr>stává se <nobr>v&#x2005;</nobr>českém prostředí fenoménem stejně tak, jako podobné soutěže <nobr>v&#x2005;</nobr>zámoří. Potenciál samotné ligy roste. Důkazem je nastávající
+                        zápas <nobr>s&#x2005;</nobr>přívlastkem Bitva <nobr>o&#x2005;</nobr>Prahu, který se objeví poprvé živě na televizních obrazovkách na ČT sport. </p>
                         <br/><br/>
                         <div className="h2-center">
                               <img className="img-small-cc img-no-padding img-responsive" alt="eng"

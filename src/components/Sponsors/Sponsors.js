@@ -35,7 +35,7 @@ class Sponsors extends Component {
                            src={require("assets/img/sponzors/akka.jpg")}/></div>
                       <div class="grid-item"><img className="img-circle img-no-padding img-responsive" alt="ČZU"
                            src={require("assets/img/sponzors/czu.gif")}/></div>
-                      <div class="grid-item"><img className="img-circle img-no-padding img-responsive" alt="VŠE"
+                      <div class="grid-item-sm"><img className="img-circle img-no-padding img-responsive" alt="VŠE"
                            src={require("assets/img/sponzors/vse.png")}/></div>
                       <div class="grid-item"><img className="img-circle img-no-padding img-responsive" alt="ČVUT"
                            src={require("assets/img/sponzors/cvut.jpeg")}/></div>

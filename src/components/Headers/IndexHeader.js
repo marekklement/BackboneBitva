@@ -22,11 +22,8 @@ function IndexHeader() {
                                 src={logo}/>
                         </div>
                         <h1 className="title text-center">
-                            <strong>11.3.2020 - 17:00 - ZS EDEN</strong>
+                            <strong>11.3.2020<br></br>17:00<br></br>ZS EDEN</strong>
                         </h1>
-                        <h2 className="presentation-subtitle text-center">
-                            Backbone Bitva o Prahu 2020!
-                        </h2>
                     </Container>
                 </div>
                 <div
