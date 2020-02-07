@@ -33,7 +33,7 @@ function Footer() {
                     </nav>
                     <div className="credits ml-auto">
             <span>
-              © {new Date().getFullYear()} vytvořeno{""} MK a Dalta.cz
+              © {new Date().getFullYear()} vytvořeno{""} MK a <a href="http://www.dalta.cz">Dalta.cz</a>
             </span>
                     </div>
                 </Row>

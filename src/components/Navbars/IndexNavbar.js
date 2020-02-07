@@ -86,12 +86,9 @@ function IndexNavbar() {
                         </NavItem>
                         <NavItem>
                             <Button
-                                onClick={() => {
-                                    window.confirm('Vstupenky budou v prodeji od 8.2.2020!')
-                                }}
                                 className="btn-round"
                                 color="danger"
-                                href="#pablo"
+                                href="https://bitvaoprahu.enigoo.cz/online/#/tickets/matches/sektor/2"
                             >
                                 Vstupenky
                             </Button>
