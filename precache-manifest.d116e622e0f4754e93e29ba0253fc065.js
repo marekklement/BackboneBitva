@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "659bfdbb922f41cacf6b8c6b4bb36a87",
+    "revision": "514921dceae6ec597cd18bbee4b004eb",
     "url": "/index.html"
   },
   {
-    "revision": "28e4a4dcece02422e025",
-    "url": "/static/css/main.02f725f7.chunk.css"
+    "revision": "c2721b34b5ba7511ad35",
+    "url": "/static/css/main.3d6ffe88.chunk.css"
   },
   {
-    "revision": "5c7aeede3b5fd19b0ff2",
-    "url": "/static/js/2.e33619e4.chunk.js"
+    "revision": "0a0107cf7e8b74e7d3c5",
+    "url": "/static/js/2.bf497c45.chunk.js"
   },
   {
-    "revision": "28e4a4dcece02422e025",
-    "url": "/static/js/main.28ccbf9e.chunk.js"
+    "revision": "c2721b34b5ba7511ad35",
+    "url": "/static/js/main.f5d6ef01.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -84,6 +84,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/eng.80e50b04.png"
   },
   {
+    "revision": "fb5775ad1fa4ead4cff3a24a7ddcc812",
+    "url": "/static/media/enigoo.fb5775ad.png"
+  },
+  {
+    "revision": "d676bfc5579277a07d788d239be03136",
+    "url": "/static/media/fsp.d676bfc5.png"
+  },
+  {
     "revision": "74d86cd432dbe12e2604777f03481dd0",
     "url": "/static/media/kaufland.74d86cd4.png"
   },
@@ -112,8 +120,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/richie.81d32ce6.jpg"
   },
   {
+    "revision": "8974f2ff5524942433b9e3f40c6ef9d9",
+    "url": "/static/media/su.8974f2ff.png"
+  },
+  {
     "revision": "456a4ddd3b824be9d3e13253a9da83da",
     "url": "/static/media/tomas.456a4ddd.jpg"
+  },
+  {
+    "revision": "61cf00c7010dad7359c05d2f675307b5",
+    "url": "/static/media/uk-skola.61cf00c7.png"
   },
   {
     "revision": "73a8299f8913fac3c01f8ad6f28a4c0c",
