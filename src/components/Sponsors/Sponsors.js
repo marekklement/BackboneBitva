@@ -15,8 +15,8 @@ class Sponsors extends Component {
                     <h2 className="h2-center">
                         Generální partner
                     </h2>
-                    <img className="img-circle img-no-padding img-responsive" alt="Backbone"
-                         src={require("assets/img/sponzors/backbone.png")}/>
+                    <a href="https://backbone.cz"><img className="img-circle img-no-padding img-responsive" alt="Backbone"
+                         src={require("assets/img/sponzors/backbone.png")}/></a>
                      <h2 className="h2-center">
                          Další partneři
                      </h2><br></br>
