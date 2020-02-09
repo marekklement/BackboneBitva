@@ -24,10 +24,10 @@ class AboutUs extends Component {
                         zápas <nobr>s&#x2005;</nobr>přívlastkem Bitva <nobr>o&#x2005;</nobr>Prahu, který se objeví poprvé živě na televizních obrazovkách na ČT sport. </p>
                         <br/><br/>
                         <div className="h2-center">
-                              <img className="img-small-cc img-no-padding img-responsive" alt="eng"
-                             src={require("assets/img/logo/eng.png")}/>
-                              <img className="img-small-cc img-no-padding img-responsive" alt="uk"
-                                  src={require("assets/img/logo/uk.png")}/>
+                              <a href="https://univerzitnihokej.cz/engineersprague"><img className="img-small-cc img-no-padding img-responsive" alt="eng"
+                             src={require("assets/img/logo/eng.png")}/></a>
+                              <a href="https://univerzitnihokej.cz/ukpraha.hockey"><img className="img-small-cc img-no-padding img-responsive" alt="uk"
+                                  src={require("assets/img/logo/uk.png")}/></a>
                         </div>
                         <br/>
                         <Container>
