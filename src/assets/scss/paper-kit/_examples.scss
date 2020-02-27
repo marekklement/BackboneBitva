@@ -185,7 +185,9 @@
   position: relative;
   text-align: center;
   color: #FFFFFF;
-  display: block;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 
   .type {
     position: absolute;

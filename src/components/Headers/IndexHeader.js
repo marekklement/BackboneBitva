@@ -1,5 +1,5 @@
 import React from "react";
-import {Container} from "reactstrap";
+import {Button, Container} from "reactstrap"
 import Img from 'react-image';
 import logo from '../../assets/img/logo/logo-bitva.svg';
 
@@ -17,6 +17,12 @@ function IndexHeader() {
                 <div className="content-center">
                     <Container>
                         <div className="title-brand">
+                            <Button
+                                className="btn-round d-lg-none"
+                                color="danger"
+                                href="https://bitvaoprahu.enigoo.cz/online/#/tickets/matches/sektor/2">
+                                Vstupenky
+                            </Button>
                             <Img
                                 style={{width: 400, height: 400}}
                                 src={logo}/>
