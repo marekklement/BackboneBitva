@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "224c496d2349fc3062ce569f0699c8be",
+    "revision": "677397d7c96b4234c92e6d94d852fce8",
     "url": "/index.html"
   },
   {
-    "revision": "d3da69c5051b64efe942",
-    "url": "/static/css/main.e279f735.chunk.css"
+    "revision": "55981dff9b8bbc1f8467",
+    "url": "/static/css/main.66c6480c.chunk.css"
   },
   {
     "revision": "0a0107cf7e8b74e7d3c5",
     "url": "/static/js/2.bf497c45.chunk.js"
   },
   {
-    "revision": "d3da69c5051b64efe942",
-    "url": "/static/js/main.383f4f05.chunk.js"
+    "revision": "55981dff9b8bbc1f8467",
+    "url": "/static/js/main.f5b06f06.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -96,8 +96,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/kaufland.74d86cd4.png"
   },
   {
-    "revision": "a5440c69810dee7da10eaee1254d6da5",
-    "url": "/static/media/logo-bitva.a5440c69.svg"
+    "revision": "b8d528d84e1b16c7a751a6209f1a0ec3",
+    "url": "/static/media/logo-bitva.b8d528d8.svg"
   },
   {
     "revision": "48ac036da7c7923266266f63746fc5f1",
