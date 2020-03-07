@@ -1,7 +1,7 @@
 import React from "react";
 import {Button, Container} from "reactstrap"
 import Img from 'react-image';
-import logo from '../../assets/img/logo/logo-bitva.svg';
+import logo from '../../assets/img/logo/logo-bitva.png';
 
 function IndexHeader() {
     return (
@@ -17,15 +17,14 @@ function IndexHeader() {
                 <div className="content-center">
                     <Container>
                         <div className="title-brand">
-                            <Button
+                            <div><Button
                                 className="btn-round d-lg-none"
                                 color="danger"
                                 href="https://bitvaoprahu.enigoo.cz/online/#/tickets/matches/sektor/2">
                                 Vstupenky
-                            </Button>
-                            <Img
-                                style={{width: 400, height: 400}}
-                                src={logo}/>
+                            </Button></div>
+                              <div><Img className="img-logo"
+                                src={logo}/></div>
                         </div>
                         <h1 className="title text-center">
                             <strong>11.3.2020<br></br>17:00<br></br>ZS EDEN</strong>

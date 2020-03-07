@@ -45,6 +45,12 @@ class Sponsors extends Component {
                             src={require("assets/img/sponzors/su.png")}/></a></div>
                        <div class="grid-item-li"><a href="https://portal.cvut.cz/informace-pro-studenty/stipendia-nadace-granty/fond-studentskych-projektu-fsp/"><img className="img-circle img-no-padding img-responsive" alt="FSP"
                             src={require("assets/img/sponzors/fsp.png")}/></a></div>
+                       <div class="grid-item"><a href="https://www.kostkastav.cz/"><img className="img-circle img-no-padding img-responsive" alt="kostka"
+                            src={require("assets/img/sponzors/kostka.jpg")}/></a></div>
+                       <div class="grid-item-li"><a href="https://www.oc-sestka.cz/"><img className="img-circle img-no-padding img-responsive" alt="sestka"
+                            src={require("assets/img/sponzors/sestka.png")}/></a></div>
+                       <div class="grid-item"><a href="http://www.atena.cz/"><img className="img-circle img-no-padding img-responsive" alt="atena"
+                            src={require("assets/img/sponzors/atena.png")}/></a></div>
                     </div>
                 </Container>
             </div>

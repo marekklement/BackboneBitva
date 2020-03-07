@@ -14,7 +14,7 @@ class AboutUs extends Component {
                         </h1><br/><br/>
                     </div>
                     <div className="just">
-                        <p>TOP zápas v rámci <strong>Univerzitní ligy ledního hokeje (ULLH)</strong> <nobr>s&#x2005;</nobr>názvem Backbone Bitva <nobr>o&#x2005;am</nobr>Prahu odehrají týmy Engineers Prague <nobr>a&#x2005;</nobr>UK Hockey Prague ve středu 11. března 2020 <nobr>v&#x2005;</nobr>pražském Edenu.
+                        <p>TOP zápas v rámci <strong>Univerzitní ligy ledního hokeje (ULLH)</strong> <nobr>s&#x2005;</nobr>názvem Backbone Bitva <nobr>o&#x2005;</nobr>Prahu odehrají týmy Engineers Prague <nobr>a&#x2005;</nobr>UK Hockey Prague ve středu 11. března 2020 <nobr>v&#x2005;</nobr>pražském Edenu.
                         <strong> Vrcholná akce sezóny</strong> pro pražské kluby začne <nobr>v&#x2005;</nobr><strong>17:00</strong>. Zápas ze <strong>zimního stadionu Eden</strong> bude <nobr>v&#x2005;</nobr>přímém přenosu vysílat <strong>Česká televize</strong>.
                         Pro přítomné, <nobr>a&#x2005;</nobr>to nejen studenty, je připraven zajímavý doprovodný program, soutěže, mezi hosty známé osobnosti, <nobr>a&#x2005;</nobr>především jedinečná atmosféra,
                         která je pro všechny zápasy <nobr>v&#x2005;</nobr>ULLH typická.
