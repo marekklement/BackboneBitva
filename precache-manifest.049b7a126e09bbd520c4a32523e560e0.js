@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99b8023838000434f87068a620cf0e36",
+    "revision": "25550b5ef5a83e0686f66680288693cf",
     "url": "/index.html"
   },
   {
-    "revision": "8d20d31e86e2ffb5898d",
+    "revision": "ed3932da89c5be4dd887",
     "url": "/static/css/main.8d56fba5.chunk.css"
   },
   {
-    "revision": "0a0107cf7e8b74e7d3c5",
-    "url": "/static/js/2.bf497c45.chunk.js"
+    "revision": "0d1a80afb33d6d256876",
+    "url": "/static/js/2.e5f50b6e.chunk.js"
   },
   {
-    "revision": "8d20d31e86e2ffb5898d",
-    "url": "/static/js/main.3ab55fac.chunk.js"
+    "revision": "ed3932da89c5be4dd887",
+    "url": "/static/js/main.c165204c.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -56,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ales.9e6590b6.jpg"
   },
   {
+    "revision": "84c65a5d8ae61b4633435c9f9051e99b",
+    "url": "/static/media/atena.84c65a5d.png"
+  },
+  {
     "revision": "d7be618db77dc5fe6273c9d0b3acc4d2",
     "url": "/static/media/backbone.d7be618d.png"
   },
@@ -96,6 +100,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/kaufland.74d86cd4.png"
   },
   {
+    "revision": "8cd706894526711768ef87deafffc168",
+    "url": "/static/media/kostka.8cd70689.jpg"
+  },
+  {
     "revision": "9c53c21cc71b1a8b5d9ec12531a42260",
     "url": "/static/media/logo-bitva.9c53c21c.png"
   },
@@ -118,6 +126,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "81d32ce6343aaac5a4c345ff807d7aee",
     "url": "/static/media/richie.81d32ce6.jpg"
+  },
+  {
+    "revision": "6115ed2dd632a3ba700442e40c061b05",
+    "url": "/static/media/sestka.6115ed2d.png"
   },
   {
     "revision": "8974f2ff5524942433b9e3f40c6ef9d9",
