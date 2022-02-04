@@ -88,7 +88,7 @@ function IndexNavbar() {
                             <Button
                                 className="btn-round"
                                 color="danger"
-                                href="https://bitvaoprahu.enigoo.cz/online/#/tickets/matches/sektor/2"
+                                href="https://engineersprague.enigoo.cz/app/tickets/events/46"
                             >
                                 Vstupenky
                             </Button>
