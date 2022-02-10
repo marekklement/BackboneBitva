@@ -20,14 +20,14 @@ function IndexHeader() {
                             <div><Button
                                 className="btn-round d-lg-none"
                                 color="danger"
-                                href="https://bitvaoprahu.enigoo.cz/online/#/tickets/matches/sektor/2">
+                                href="https://engineersprague.enigoo.cz/app/tickets/events/46">
                                 Vstupenky
                             </Button></div>
                               <div><Img className="img-logo"
                                 src={logo}/></div>
                         </div>
                         <h1 className="title text-center">
-                            <strong>11.3.2020<br></br>17:00<br></br>ZS EDEN</strong>
+                            <strong>ZS EDEN - 3. 3. 2022 - 17:30</strong>
                         </h1>
                     </Container>
                 </div>

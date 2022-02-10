@@ -14,37 +14,37 @@ const items = [
     {
         src: require("assets/img/galery/001.jpg"),
         altText: "Bitva",
-        caption: "Bitva"
+        caption: ""
     },
     {
         src: require("assets/img/galery/002.jpg"),
         altText: "Bitva",
-        caption: "Bitva"
+        caption: ""
     },
     {
         src: require("assets/img/galery/003.jpg"),
         altText: "Bitva",
-        caption: "Bitva"
+        caption: ""
     },
     {
         src: require("assets/img/galery/004.jpg"),
         altText: "Bitva",
-        caption: "Bitva"
+        caption: ""
     },
     {
         src: require("assets/img/galery/005.jpg"),
         altText: "Bitva",
-        caption: "Bitva"
+        caption: ""
     },
     {
         src: require("assets/img/galery/006.jpg"),
         altText: "Bitva",
-        caption: "Bitva"
+        caption: ""
     },
     {
         src: require("assets/img/galery/007.jpg"),
         altText: "Bitva",
-        caption: "Bitva"
+        caption: ""
     }
 ];
 

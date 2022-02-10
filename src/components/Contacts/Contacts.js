@@ -28,10 +28,10 @@ class Contacts extends Component {
                                     <div>hlavac@engineersprague.cz</div>
                                 </Col>
                                 <Col lg="4" className="section-centered">
-                                    <img className="img-cc img-no-padding img-responsive" alt="Richard Jarošík"
-                                         src={require("assets/img/contacts/richie.jpg")}/>
-                                    <h3>Richard Jarošík</h3>
-                                    <div>fandimkarlovce@gmail.com</div>
+                                    <img className="img-cc img-no-padding img-responsive" alt="Marek Herna"
+                                         src={require("assets/img/contacts/herna.jfif")}/>
+                                    <h3>Marek Herna</h3>
+                                    <div>support@engineersprague.cz</div>
                                 </Col>
                             </Row>
                         </Container>
